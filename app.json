@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "gd3b",
+    "description": "gd3b",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/DaoChen6/IF-XTW",
-    "repository": "https://github.com/DaoChen6/IF-XTW",
+    "website": "https://github.com/go2d/gd3b",
+    "repository": "https://github.com/go2d/gd3b",
     "stack": "container"
 }
