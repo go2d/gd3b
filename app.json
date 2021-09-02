@@ -1,6 +1,6 @@
 {
-    "name": "gd3b",
-    "description": "gd3b",
+    "name": "kuy5n",
+    "description": "kuy5n",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/go2d/gd3b",
-    "repository": "https://github.com/go2d/gd3b",
+    "website": "https://github.com/go2d/kuy5n",
+    "repository": "https://github.com/go2d/kuy5n",
     "stack": "container"
 }
